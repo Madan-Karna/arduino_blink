@@ -1,2 +1,2 @@
 void setup() {}
-void loop() { delay(200); }
+void loop() { delay(500); }
